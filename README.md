@@ -1,3 +1,16 @@
+# info
+
+Number and name of feature: **gallery with favorites**
+
+Estimate of time needed to complete: **4 hours**
+
+Start time: **1pm**
+
+Finish time: _____
+
+Actual time needed to complete: _____
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
